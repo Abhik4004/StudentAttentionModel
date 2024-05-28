@@ -30,5 +30,3 @@ A hybrid deep learning architecture for classifying EEG signals into attention, 
 
 ## Citation
 If you use any of these repositories, please cite the original papers mentioned in the repositories.
-
-Feel free to add more content, GIFs, and personalize this README to showcase your work! 🧠🚀
